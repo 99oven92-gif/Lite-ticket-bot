@@ -157,4 +157,4 @@ async def on_interaction(interaction: discord.Interaction):
             await log_channel.send(content=f"📄 **티켓 종료 기록:** `{interaction.channel.name}`", file=file)
             await interaction.channel.delete()
 
-bot.run('여기에_토큰_입력')
+bot.run('MTQ1NDMyNDU4OTEzMDk0NDU4NQ.GVtHox.uUlhWXTdSyakqWU-Ckxtyke1J_8IZ7NFpaG9II')
